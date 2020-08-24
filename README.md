@@ -5,7 +5,7 @@ I feel as though I'm getting the hang of this Bootstrap framework and figuring o
 This project will have a Home page, Portfolio Page and Contact Page.
 
 # Home Page
-On this page you will a picture of me along with a bio and a button linking to my portfolio.
+On this page you will see a picture of me along with a bio and a button linking to my portfolio.
 
 <img src="images\Home.png" alt="pic_of_home_page">
 
