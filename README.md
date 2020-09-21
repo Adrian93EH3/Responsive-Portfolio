@@ -1,11 +1,11 @@
 # Responsive-Portfolio
-I honestly want to reign in my handling with Bootstrap, I am so used to doing my own HTML/CSS and code for everything that I wish I kind of knew about this method of coding before. Very convenient and fast. Almost as if using Wix or some other website builder in a sense.
+I feel as though I'm getting the hang of this Bootstrap framework and figuring out the spacing.
 
 # Project Details
 This project will have a Home page, Portfolio Page and Contact Page.
 
 # Home Page
-On this page you will a picture of me along with a bio and a button linking to my portfolio.
+On this page you will see a picture of me along with a bio and a button linking to my portfolio.
 
 <img src="images\Home.png" alt="pic_of_home_page">
 
