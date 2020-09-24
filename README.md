@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-I feel as though I'm getting the hang of this Bootstrap framework and figuring out the spacing.
+Welcome to my portfolio where I present my proud work!
 
 # Project Details
 This project will have a Home page, Portfolio Page and Contact Page.
