@@ -10,7 +10,8 @@ On this page you will see a picture of me along with a bio and a button linking 
 <img src="Public\Assets\images\Home2.png" alt="pic_of_home_page">
 
 # Portfolio Page
-On this page you will find 3 of my most proud projects on display. Enjoy each one as they link to their each individual GitHub Repositories. Fork them and try them out!
+On this page you will find some of my work on display. Enjoy each one as they link to their each individual GitHub repositories and deployed sites. <br>
+Fork/Clone them to try them out!
 
 <img src="Public\Assets\images\Portfolio2.png" alt="pic_of_portfolio_page">
 
